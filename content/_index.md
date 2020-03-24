@@ -1,5 +1,7 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: I care about software and implied volatility, here are my thoughts on those
+    things.
+  maxWidthPX: "652"
+
 ---
