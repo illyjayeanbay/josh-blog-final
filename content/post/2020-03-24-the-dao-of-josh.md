@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Josh Cameron"]
 date = 2020-03-24T16:00:00Z
 excerpt = "In my favorite book, The Dao of Capital, Mark Spitznagel talks about his roundabout investment philosophy. He uses the California redwoods as an analogy. These conifers grow slowly at first, as they build a foundation that allows them to rise above the canopy and continue to grow for 1000s of years."
 hero = "/images/conifers.jpg"
