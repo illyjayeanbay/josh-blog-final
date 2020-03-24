@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/some-early-thoughts-on-the-economics-of-covid-19.md
